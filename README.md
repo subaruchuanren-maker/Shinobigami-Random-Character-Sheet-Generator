@@ -1,0 +1,2 @@
+# Shinobigami-Random-Character-Sheet-Generator
+シノビガミと呼ばれるTRPGシステムにて、キャラクターシートを無作為に作るプログラムを作りたいと思い作成した。
